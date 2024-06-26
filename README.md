@@ -19,7 +19,7 @@ To install and run the Word Search Puzzle API, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/CesarEnc/word-search-puzzle-api
    cd repository
 
 2. **Install Dependencies:**:
