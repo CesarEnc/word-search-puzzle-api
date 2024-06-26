@@ -34,4 +34,4 @@ Install the required packages using pip and the requirements.txt file:
    Start the FastAPI application using Uvicorn:
 
    ```bash
-   uvicorn app:app --reload
+   uvicorn word_search_api.main:app --reload
